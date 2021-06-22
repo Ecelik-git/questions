@@ -15,6 +15,7 @@ public class PrintStarts {
 			}
 			System.out.println();
 		}
+		scan.close();
 
 	}
 
